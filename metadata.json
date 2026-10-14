@@ -1,0 +1,6 @@
+{
+  "name": "سامانه شناسنامه و کاتالوگ نرم‌افزارهای سازمانی (Enterprise SPM)",
+  "description": "سامانه جامع و امن مدیریت شناسنامه، طبقات داینامیک، نسخه‌بندی، متادیتا و کنترل دسترسی نرم‌افزارهای سازمان با اسکریپت SQL Server و بک‌اند پایتون",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
